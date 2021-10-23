@@ -1,5 +1,5 @@
 ## Olá!!! Eu sou Leopoldino Paulo Chalambua
-- Atualmente tabalho com IT/Network/
+- Atualmente trabalho com IT/Network/
 - 👀 Estou interessado em Admninstração Linux, Programação, Cybersecurity e Network.
 - Estou procurando colaborar em outros projetos para melhor aprendizado.
 - Como me localizar paulochalambua@hotmail.com
